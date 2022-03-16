@@ -1,56 +1,134 @@
-import Spidey1 from "./images/spiderman1.png";
-import Spidey2 from "./images/spiderman2.png";
-import Spidey3 from "./images/spiderman3.png";
-import Spidey4 from "./images/spiderman4.png";
+import Reaper from "./images/CarolinaReaper.png";
+import Offsuit72 from "./images/offsuit72.png";
+import Unprotected from "./images/unprotected.png";
+import Taliban from "./images/Taliban.png";
+import MemeContest from "./images/memecontest.png";
 import Dictionary from "./images/oxford.png";
 
 export const books = {
-  Comics: [
+  RiskyTickets: [
     {
-      name: "The Amazing Spiderman By Nick Spencer Vol. 1: Back To Basics (MARVEL ORIGINAL COMIC)",
-      price: 1.99,
-      rating: 4,
-      image: Spidey1,
+      name: "$5 Risky Ticket: The Carolina Reaper",
+      price: 5.15,
+      rating: 2,
+      image: Reaper,
       about:
-        "An alien invasion attacks New York City and the only one who can stop it is...Spider-Man?! But that's far from all you'll find here - a revelation from the past puts Peter Parker's job, relationships and whole life in jeopardy! And if even that's not enough, you'll see a new roommate, new love interests and a new villain!",
+        "Very bold, sir!",
     },
     {
-      name: "The Amazing Spiderman By Nick Spencer Vol. 2: Friends And Foes (MARVEL ORIGINAL COMIC)",
-      price: 19.99,
-      rating: 5,
-      image: Spidey2,
-      about:
-        "Wondering when Boomerang's status as Spider-Man's roommate would blow up? Well, the time has come and it's all here in this continuation of Nick Spencer's action-packed take on everybody's favorite web-head!",
-    },
-    {
-      name: "The Amazing Spiderman By Nick Spencer Vol. 3: Lifetime Achievement (MARVEL ORIGINAL COMIC)",
-      price: 2.99,
-      rating: 1,
-      image: Spidey3,
-      about:
-        "J. Jonah Jameson, former publisher of the Daily Bugle, former mayor of New York City, has a new job - as a shock jock! It's the perfect job for the outspoken Jonah, but is the world ready for a JJJ who's...pro-Spider-Man?! More importantly, is Peter Parker ready? ",
-    },
-    {
-      name: "The Amazing Spiderman By Nick Spencer Vol. 4: Hunted (MARVEL ORIGINAL COMIC)",
-      price: 8.99,
+      name: "$20 Risky Ticket: The 7-2 Off Suit",
+      price: 20.60,
       rating: 3,
-      image: Spidey4,
+      image: Offsuit72,
       about:
-        "When Kraven returns, Spider-Man becomes the hunted! Sergei Kravinoff and his minions have been kidnapping animal-themed superhumans for months, and they need one more to complete the collection: the Spider. But what does Kraven want with all of them?! In Central Park, the prey is let loose, and the hunt begins - but Kraven isn't the one in pursuit. Who has Spidey in their crosshairs?",
+        "They laugh now, and cry later",
     },
-  ],
-  Dictionaries: [
     {
-      name: "Oxford English Dictionary (3rd Edition)",
-      price: 65.29,
-      rating: 5,
-      image: Dictionary,
+      name: "$100 Risky Ticket: The Unprotected Sex With A Stranger",
+      price: 103,
+      rating: 4,
+      image: Unprotected,
       about:
-        "The foremost single volume authority on the English language, the Oxford Dictionary of English is at the forefront of language research, focusing on English as it is used today. It is informed by the most up-to-date evidence from the largest language research programme in the world, including the two-billion-word Oxford English Corpus."
+        "Not smort, but maybe a good idea",
+    },
+    {
+      name: "$500 Risky Ticket: The Committing Homocide/Suicide In Hopes The Virgin Prophecy Is True",
+      price: 515,
+      rating: 5,
+      image: Taliban,
+      about:
+        "So you're saying there's a chance!",
     },
   ],
-  Novels: [],
-  Fantasy: [],
-  Horror: [],
-  Adventure: [],
+  ConservativeTickets: [
+    
+    {
+      name: "$5 Conservative Ticket",
+      price: 5.15,
+      rating: 2,
+      image: MemeContest,
+      about:
+        "Space Filler",
+    },
+    {
+      name: "$20 Conservative Ticket",
+      price: 20.60,
+      rating: 3,
+      image: MemeContest,
+      about:
+        "Space Filler",
+    },
+    {
+      name: "$100 Conservative Ticket",
+      price: 103,
+      rating: 4,
+      image: MemeContest,
+      about:
+        "Space Filler",
+    },
+    {
+      name: "$500 Conservative Ticket",
+      price: 515,
+      rating: 5,
+      image: MemeContest,
+      about:
+        "space filler",
+    },
+  ],
+  SafeTickets: [
+    {
+      name: "$5 Safe Ticket",
+      price: 5.15,
+      rating: 2,
+      image: MemeContest,
+      about:
+        "Space Filler",
+    },
+    {
+      name: "$20 Safe Ticket",
+      price: 20.60,
+      rating: 3,
+      image: MemeContest,
+      about:
+        "Space Filler",
+    },
+    {
+      name: "$100 Safe Ticket",
+      price: 103,
+      rating: 4,
+      image: MemeContest,
+      about:
+        "Space Filler",
+    },
+    {
+      name: "$500 Safe Ticket",
+      price: 515,
+      rating: 5,
+      image: MemeContest,
+      about:
+        "space filler",
+    },
+  ],
+  Showcase_Schedule: [
+
+    {
+      name: "3/21/2022 9pm UTC time",
+      price: .00001,
+      rating: 5,
+      image: null,
+      about:
+        "or when 128 tickets have been purchased",
+    },
+  ],
+  Showcase_Wallet: [
+
+    {
+      name: "https://www.bscscan.com/address/0xf43524 7364f38e7f182372fbff58e50f0a90e88f remove the space",
+      price: .00001,
+      rating: 5,
+      image: null,
+      about:
+        "link to showcase wallet above. link to ticket history here https://docs.google.com/spreadsheets/d/e/2PACX-1vTlCpEXrKRFQHldygjRu8ryISHNPkW9lrU5DdaQhoXBMbNE_ok fTMBnAXudBBB5vbC8DYfgFQOMFlOM/pubhtml (remove space)",
+    },
+  ],
 };

@@ -8,7 +8,7 @@ import BookStore from "../images/bookstore.png";
 import {ShoppingCartOutlined, MenuOutlined} from "@ant-design/icons";
 
 const {Search } = Input;
-const categories = ["Comics", "Dictionaries", "Novels", "Fantasy", "Horror", "Adventure"];
+const categories = ["RiskyTickets", "ConservativeTickets", "SafeTickets", "Showcase_Schedule", "Showcase_Wallet"];
 
 const Header = () => {
   const { authenticate, account } = useMoralis();
@@ -60,7 +60,6 @@ const Header = () => {
               {e}
             </Link>
           )
-
         })}
       </Space>
     </div>

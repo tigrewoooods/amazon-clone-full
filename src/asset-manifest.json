@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0fe0c3e.css",
+    "main.js": "/static/js/main.5604346f.js",
+    "static/js/787.ebd7646a.chunk.js": "/static/js/787.ebd7646a.chunk.js",
+    "static/media/NbaBackground.png": "/static/media/NbaBackground.4aeeec0f6a093ecc76bc.png",
+    "static/media/SmashBrosBackground.png": "/static/media/SmashBrosBackground.034717f9e1c5acd50002.png",
+    "static/media/CivBackground.png": "/static/media/CivBackground.013dd05c486c24b30469.png",
+    "static/media/StreetFighterBackground.png": "/static/media/StreetFighterBackground.81601ec4683e70570851.png",
+    "static/media/MaddenBackground.png": "/static/media/MaddenBackground.1cac3f7aaae779aeb785.png",
+    "static/media/unprotected.png": "/static/media/unprotected.3ffdd27342e70beffd30.png",
+    "static/media/oxford.png": "/static/media/oxford.265b844b5b7ed5e819e2.png",
+    "static/media/offsuit72.png": "/static/media/offsuit72.cd5a0459d9f926329c4b.png",
+    "static/media/MobyDick.png": "/static/media/MobyDick.36b646b87991abf275c3.png",
+    "static/media/ArtemisFowl.png": "/static/media/ArtemisFowl.bdc51b8296772abbd511.png",
+    "static/media/flame.png": "/static/media/flame.df32322aad9b7cfbabec.png",
+    "static/media/fantasy.png": "/static/media/fantasy.13bc7500cf961a398580.png",
+    "static/media/dictionaries.png": "/static/media/dictionaries.9ac7fa10aa604b096784.png",
+    "static/media/Balance.png": "/static/media/Balance.d5bcc26faa7459d0baf0.png",
+    "static/media/horror.png": "/static/media/horror.3ce00dd69115f7c39acf.png",
+    "static/media/Taliban.png": "/static/media/Taliban.89c59dcb2af2140a480c.png",
+    "static/media/adventure.png": "/static/media/adventure.5045a458a9f574b96c1d.png",
+    "static/media/CarolinaReaper.png": "/static/media/CarolinaReaper.536c1df25c95a49e10d9.png",
+    "static/media/Pillow.png": "/static/media/Pillow.84edf5260ae8d94d4cde.png",
+    "static/media/bookstore.png": "/static/media/bookstore.21afee257a2da8fec189.png",
+    "static/media/ModerateSlim.png": "/static/media/ModerateSlim.4c8d29ff97a5c5dc0a9c.png",
+    "static/media/GlorySlim.png": "/static/media/GlorySlim.aca395548921eb1de2f6.png",
+    "static/media/SafeSlim.png": "/static/media/SafeSlim.1e7aea56a06c68803dfc.png",
+    "static/media/logo.png": "/static/media/logo.e600497a5e0ee188afb7.png",
+    "index.html": "/index.html",
+    "main.a0fe0c3e.css.map": "/static/css/main.a0fe0c3e.css.map",
+    "main.5604346f.js.map": "/static/js/main.5604346f.js.map",
+    "787.ebd7646a.chunk.js.map": "/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0fe0c3e.css",
+    "static/js/main.5604346f.js"
+  ]
+}
